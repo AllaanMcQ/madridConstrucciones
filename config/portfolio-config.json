@@ -1,0 +1,47 @@
+{
+	"pictures" :
+	[
+		{
+			"img" 			: "baño1.png",
+			"title" 		: "Quilicura",
+			"category" 		: "baños",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
+		},
+		{
+			"img" 			: "baño2.png",
+			"title" 		: "Quilicura",
+			"category" 		: "baños",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
+		},
+		{
+			"img" 			: "cocina1.png",
+			"title" 		: "Quilicura",
+			"category" 		: "cocinas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-publico"
+		},
+		{
+			"img" 			: "cocina2.png",
+			"title" 		: "Quilicura",
+			"category" 		: "cocinas",
+			"data" 			: "publico",
+			"filter" 		: "filter-publico"
+		},
+		{
+			"img" 			: "cocina3.png",
+			"title" 		: "Quilicura",
+			"category" 		: "cocinas",
+			"data" 			: "publico",
+			"filter" 		: "filter-publico"
+		},
+		{
+			"img" 			: "interior1.png",
+			"title" 		: "Quilicura",
+			"category" 		: "cocinas",
+			"data" 			: "publico",
+			"filter" 		: "filter-publico"
+		}
+	]
+}
